@@ -8,6 +8,11 @@ export default defineNuxtConfig({
     // and more...
   },
 
+  app: {
+    baseURL: "/matei-mark/",
+    buildAssetsDir: "assets",
+  },
+
   googleFonts: {
     families: {
       "Share+Tech+Mono": true,
