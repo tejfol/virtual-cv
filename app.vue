@@ -105,7 +105,7 @@ function handleInput($event) {
 <style lang="scss">
 main {
   @apply text-gray-50;
-  font-family: "Share Tech Mono";
+  font-family: "Share Tech Mono", monospace;
 
   & #terminal {
     animation: 0.3s ease-in 1s both running main;

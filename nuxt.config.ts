@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   },
 
   app: {
-    baseURL: "/matei-mark/",
+    baseURL: "/virtual-cv/",
     buildAssetsDir: "assets",
   },
 
